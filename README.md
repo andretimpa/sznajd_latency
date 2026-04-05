@@ -1,1 +1,1 @@
-The files can be comppiled simply running make.sh
+The files can be compiled simply running make.sh
